@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "name": "mon-bot-whatsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
